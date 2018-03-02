@@ -23,4 +23,4 @@
 * When is it OK (if ever) to use tight coupling? [[A]](http://stackoverflow.com/questions/19976273/where-loose-and-tight-coupling-would-be-used-as-a-real-scenario)
 * What characteristic should a system have to be Cloud Ready? [[A]](http://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html) [[A]](http://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html)
 * Does unity of design imply an aristocracy of architects? Putting it simple: can good design emerge from a collective effort of all developers?
-* What's the difference between design, architecture, functionality and aesthetic? Discuss.
+* What's the difference between design, architecture, functionality and aesthetic? Discuss. [[A]](http://stackoverflow.com/questions/704855/software-design-vs-software-architecture)

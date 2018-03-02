@@ -10,7 +10,6 @@
 * Pro and cons of mutable and immutable values. [[A]](http://stackoverflow.com/questions/214714/mutable-vs-immutable-objects)
 * What are the pros and cons of mutable and immutable values.
 * What's the Object-Relational impedance mismatch? [[A]](https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch)
-* What's the difference between design, architecture, functionality and aesthetic? [[A]](http://stackoverflow.com/questions/704855/software-design-vs-software-architecture)
 * Which principles would you apply to define the size of a cache?
 * What's the difference between TCP and HTTP?
 * What are the tradeoffs of client-side rendering vs. server-side rendering? [[A]](http://www.quora.com/What-are-the-tradeoffs-of-client-side-rendering-vs-server-side-rendering)
