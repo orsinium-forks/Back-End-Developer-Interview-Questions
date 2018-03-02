@@ -14,8 +14,8 @@
 * Let's have a conversation about "*Reinventing the wheel*", the "*Not Invented Here Syndrome*" and the "*Eating Your Own Food*" practice
 * What's the next thing you would automate in your current workflow?
 * Why is writing software difficult? What makes maintaining software hard?
-* Would you prefer working on Green Field or Brown Field projects? Why?
-* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+* Would you prefer working on [Green Field](https://en.wikipedia.org/wiki/Greenfield_project) or [Brown Field](https://www.investopedia.com/ask/answers/043015/what-difference-between-green-field-and-brown-field-investment.asp) projects? Why?
+* What happens when you type google.com into your browser and press enter? [[A]](https://github.com/alex/what-happens-when)
 * What does an Operating System do when it has got no custom code to run, and therefore it looks idle? I would like to start a discussions about interrupts, daemons, background services, polling, event handling and so on.
 * Explain Unicode/Database Transactions to a 5 year old child.
 * Defend the monolithic architecture.
