@@ -8,8 +8,8 @@
 * What is refactoring useful for?
 * Are comments in code useful? Some say they should be avoided as much as possible, and hopefully made unnecessary. Do you agree?
 * What is the difference between design and architecture?
-* Why in TDD are tests written before code?
+* Why in TDD are tests written before code? [[A]](https://en.wikipedia.org/wiki/Test-driven_development)
 * C++ supports multiple inheritance, and Java allows a class to implement multiple interfaces. What impact does using these facilities have on orthogonality? Is there a difference in impact between using multiple inheritance and multiple interfaces? Is there a difference between using delegation and using inheritance? [This question is from The Pragmatic Programmer, by Andrew Hunt and David Thomas]
-* Pros and cons of holding domain logic in Stored Procedures.
+* Pros and cons of holding domain logic in Stored Procedures. [[A]](https://softwareengineering.stackexchange.com/questions/158534/pros-and-cons-of-holding-all-the-business-logic-in-stored-procedures-in-web-appl)
 * In your opinion, why have Object-Oriented Design dominated the market for so many years?
 * What would you do to understand if your code has a bad design?
