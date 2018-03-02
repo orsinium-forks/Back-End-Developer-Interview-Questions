@@ -1,12 +1,13 @@
 ## General Questions
 
-* Why does Functional Programming matter? When should a functional programming language be used?
+* Why does Functional Programming matter? When should a functional programming language be used? [[A]](http://fsharpforfunandprofit.com/posts/ten-reasons-not-to-use-a-functional-programming-language/)
 * How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?
 * Why does opening a TCP socket have a large overhead?
 * What is Encapsulation important for?
 * What is a real-time system and how is it different from an ordinary system?
 * What's the relationship between real-time languages and heap memory allocation?
 * Immutability is the practice of setting values once, at the moment of their creation, and never changing them. How can immutability help write safer code?
+* Pro and cons of mutable and immutable values. [[A]](http://stackoverflow.com/questions/214714/mutable-vs-immutable-objects)
 * What are the pros and cons of mutable and immutable values.
 * What's the Object-Relational impedance mismatch?
 * Which principles would you apply to define the size of a cache?
