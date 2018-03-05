@@ -1,12 +1,12 @@
 ## Questions about Distributed Systems
 
-* How to test a distributed system?
+* How to test a distributed system? [[A]](https://www.quora.com/How-do-I-test-a-distributed-system)
 * In which case would you apply asynchronously communication between two systems?
 * What are the general pitfalls of Remote Procedure Call?
 * If you are building a distributed system for scalability and robustness, what are the different things you'd think of in the case you are working in a closed and secure network environment or in geographically distributed and public system?
 * How to manage Fault Tolerance in a Web application? And in a Desktop one?
-* How to deal with failures in Distributed Systems?
+* How to deal with failures in Distributed Systems? [[A]](http://katemats.com/distributed-systems-basics-handling-failure-fault-tolerance-and-monitoring/)
 * Let's talk about the several approaches to Reconciliation after network partitions
-* What are the Fallacies of Distributed Computing?
+* What are the Fallacies of Distributed Computing? [[A]](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 * When would you use Request/Reply and when Publish/Subscribe?
 * Suppose the system you are working on does not support transactionality. How would you implement it from scratch?
