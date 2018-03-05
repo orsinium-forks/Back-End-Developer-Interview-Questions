@@ -4,9 +4,9 @@
 * How would you deal with Legacy Code?
 * Say I'm your Project Manager, and I'm no expert in programming. Would you try explaining me what Legacy Code is and why should I care about code quality?
 * I'm the CEO of your company. Explain to me Kanban and convince me to invest in it.
-* What is the biggest difference between Agile and Waterfall?
-* Being a team manager, how would you deal with the problem of having too many meetings?
-* How would you manage a very late project?
+* What is the biggest difference between Agile and Waterfall? [[A]](https://blog.flatworldsolutions.com/10-differences-agile-waterfall-methodology/)
+* Being a team manager, how would you deal with the problem of having too many meetings? [[A]](https://www.forbes.com/sites/theyec/2015/02/27/too-many-meetings-there-is-a-simple-solution-for-that/#502bc0805dac) [[A]](https://www.getminute.com/too-many-meetings/)
+* How would you manage a very late project? [[A]](https://pm.stackexchange.com/questions/1152/project-is-late-how-should-pm-act)
 * "*Individuals and interactions over processes and tools*" and "*Customer collaboration over contract negotiation*" comprise half of the values of the Agile Manifesto. Discuss
 * Tell me what decisions would you take if you could be the CTO of your Company.
 * Are Program Managers useful?
